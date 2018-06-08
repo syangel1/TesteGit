@@ -12,7 +12,7 @@ public class TesteGit {
      */
     public static void main(String[] args) {
         System.out.println("Minicurso GIT!");
-        System.out.println("Semana do Meio Ambiente 2018!!!");
+        System.out.println("Semana do Meio Ambiente 2018!");
         
     }
     
